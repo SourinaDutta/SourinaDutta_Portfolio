@@ -1,0 +1,1 @@
+Add your own portrait photo here and name it profile.jpg. Then replace the placeholder block in src/app/page.tsx as described in README.md.\n
